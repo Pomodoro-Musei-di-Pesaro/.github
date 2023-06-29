@@ -1,12 +1,31 @@
-## Hi there 👋
+<img align="right"  src="https://avatars.githubusercontent.com/u/136621125?s=200&v=4">
 
-<!--
+#### "Pomodoro-Musei di Pesaro" è una iniziativa nata dalla nostra amicizia e dal desiderio di contribuire a migliorare in maniera innovativa alcune problematiche/aspetti riscontrati all'interno dell'ambito museale di Pesaro.  
+Noi crediamo che l'unione tra il mondo artistico e il mondo tecnico informatico, possa essere una combinazione vincente non solo per poter risolvere efficacemente le nuove problematiche legate all'ambiente museale, ma anche, per valorizzare quest'ultimo in un periodo dove il tema della informatizzazione sta diventando sempre più importante.  
+Il team di lavoro è composto da: Alice, curatrice della parte artistica e informativa, e da Francesco invece curatore della parte informatica e di gestione delle risorse.  
 
-**Here are some ideas to get you started:**
+# Il nostro lavoro
+### Tour per bambini ai Musei Civici
+ - [Guida per tour bambini](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Guida_per_Tour_Bambini_Musei_Civici.pdf)
+ - [Guida per tour bambini ingrandita (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Guida_per_Tour_Bambini_Musei_Civici-Ingrandita.pdf)
+ - [Slides della guida per presentazione](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Slides-Guida_per_Tour_Bambini_Musei_Civici.pdf)
+ - Laboratorio creativo: [Collega le descrizioni alle immagini](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Collega_le_Descrizioni_alle_Immagini.pdf)
+ - Laboratorio creativo: [Colora le opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Colora_le_Opere.pdf)
+ - Laboratorio creativo: [Trova le opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Trova_le_Opere.pdf)
+ - Laboratorio: Domande a crocette <Prossimamente>
+ - Laboratorio: Domande a risposta aperta <Prossimamente>
+ - Supporto aggiuntivo: Album di figurine sulle opere esposte al museo <Prossimamente>
+ - Supporto aggiuntivo: Grafica quadernino personalizzato dove i bambini possono prendere appunti sulle opere del museo <Pianificato>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Tour per adulti ai Musei Civici
+  - Guida per tour adulti <Prossimamente>
+  - Guida per tour adulti ingrandita (per ipovedenti) <Prossimamente>
+  - Guida per tour adulti con immagini <Prossimamente>
+
+### Tour ai Musei Oliveriani
+  - Guida museo <Prossimamente>
+  - Guida museo ingrandita (per ipovedenti) <Prossimamente>
+  - Podcast sui Musei Oliveriani <Pianificato>
+
+### Relazione progetto
+  - Relazione <Prossimamente>
