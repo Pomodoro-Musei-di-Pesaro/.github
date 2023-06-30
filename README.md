@@ -1,2 +1,1 @@
-# .github
-Organization special repository
+# Organization's special repository
