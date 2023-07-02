@@ -13,8 +13,7 @@ Il team di lavoro è composto da Alice, curatrice della parte artistica e inform
  - Laboratorio creativo: [Collega le descrizioni alle immagini](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Collega_le_Descrizioni_alle_Immagini.pdf)
  - Laboratorio creativo: [Colora le opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Colora_le_Opere.pdf)
  - Laboratorio creativo: [Trova le opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Trova_le_Opere.pdf)
- - Laboratorio: Domande a crocette {Prossimamente}
- - Laboratorio: Domande a risposta aperta {Prossimamente}
+ - Laboratorio: Test sui Musei Civici per bambini {Prossimamente}
  - Supporto aggiuntivo: Album di figurine sulle opere esposte al museo {Prossimamente}
  - Supporto aggiuntivo: Grafica quadernino personalizzato dove i bambini possono prendere appunti sulle opere del museo {Pianificato}
 
