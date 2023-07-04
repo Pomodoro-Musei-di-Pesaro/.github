@@ -14,7 +14,6 @@ Il team di lavoro è composto da Alice, curatrice della parte artistica e inform
  - Laboratorio creativo: [Colora le opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Colora_le_Opere.pdf)
  - Laboratorio creativo: [Trova le opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Trova_le_Opere.pdf)
  - Laboratorio: Compito con domande a risposta multipla e aperta {Prossimamente}
- - Supporto aggiuntivo: Album di figurine sulle opere esposte al museo {Prossimamente}
  - Supporto aggiuntivo: Grafica quadernino personalizzato dove i bambini possono prendere appunti sulle opere del museo {Pianificato}
 
 ### Tour per adulti ai Musei Civici
@@ -25,7 +24,24 @@ Il team di lavoro è composto da Alice, curatrice della parte artistica e inform
 ### Tour ai Musei Oliveriani
   - Guida museo {Prossimamente}
   - Guida museo ingrandita (per ipovedenti) {Prossimamente}
-  - Podcast sui Musei Oliveriani {Pianificato}
+
+### Podcast sui Musei Civici
+  - Copione podcast {Prossimamante}
+  - Copione podcast ingrandito (per ipovedenti) {Prossimamente}
+  - Podcast {Pianificato}
+
+### Podcast sui Musei Oliveriani
+  - Copione podcast {Prossimamante}
+  - Copione podcast ingrandito (per ipovedenti) {Prossimamente}
+  - Podcast {Pianificato}
+
+### Album di figurine sui Musei di Pesaro
+  - Album {Prossimamente}
+
+### Grafiche del progetto
+  - Logo del progetto {Prossimamente}
+  - Mascotte del progetto {Prossimamente}
+  - Timbro del prpogetto {Prossimamente}
 
 ### Relazione progetto
   - Relazione {Prossimamente}
