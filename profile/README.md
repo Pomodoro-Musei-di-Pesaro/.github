@@ -7,7 +7,7 @@ Il team di lavoro è composto da Alice, curatrice della parte artistica e inform
 
 # Il nostro lavoro
 
-### Sito internet del progetto
+### Sito internet del progetto {Prossimamente}
 
 ### Tour per bambini ai Musei Civici
  - [Guida per tour bambini](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Guida_per_Tour_Bambini_Musei_Civici.pdf)
@@ -49,5 +49,4 @@ Il team di lavoro è composto da Alice, curatrice della parte artistica e inform
   - Mascotte del progetto {Prossimamente}
   - Timbro del prpogetto {Prossimamente}
 
-### Relazione progetto
-  - Relazione {Prossimamente}
+### Relazione progetto {Prossimamente}
