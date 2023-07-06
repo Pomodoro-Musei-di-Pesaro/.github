@@ -6,6 +6,9 @@ Noi crediamo che l'unione tra il mondo artistico e il mondo tecnico informatico,
 Il team di lavoro è composto da Alice, curatrice della parte artistica e informativa, e da Francesco curatore della parte informatica e di gestione delle risorse.  
 
 # Il nostro lavoro
+
+### Sito internet del progetto
+
 ### Tour per bambini ai Musei Civici
  - [Guida per tour bambini](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Guida_per_Tour_Bambini_Musei_Civici.pdf)
  - [Guida per tour bambini ingrandita (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Guida_per_Tour_Bambini_Musei_Civici-Ingrandita.pdf)
@@ -15,7 +18,6 @@ Il team di lavoro è composto da Alice, curatrice della parte artistica e inform
  - Laboratorio creativo: [Trova le opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Trova_le_Opere.pdf)
  - Laboratorio creativo: Puzzle con le opere {Prossimamente}
  - Laboratorio: Compito con domande a risposta multipla e aperta {Prossimamente}
- - Supporto aggiuntivo: Grafica quadernino personalizzato dove i bambini possono prendere appunti sulle opere del museo {Pianificato}
 
 ### Tour per adulti ai Musei Civici
   - Guida per tour adulti {Prossimamente}
@@ -38,6 +40,9 @@ Il team di lavoro è composto da Alice, curatrice della parte artistica e inform
 
 ### Album di figurine sui Musei di Pesaro
   - Album {Prossimamente}
+
+### Notebook personalizzato
+ - Grafica quadernino personalizzata dove i bambini possono prendere appunti sulle opere dei Musei di Pesaro {Pianificato}
 
 ### Grafiche del progetto
   - Logo del progetto {Prossimamente}
