@@ -23,6 +23,7 @@ Il team di lavoro è composto da Alice, curatrice della parte artistica e inform
   - Guida per tour adulti {Prossimamente}
   - Guida per tour adulti ingrandita (per ipovedenti) {Prossimamente}
   - Guida per tour adulti con immagini {Prossimamente}
+  - Guida per tour adulti ingrandita con immagini {Prossimamente}
 
 ### Tour ai Musei Oliveriani
   - Guida museo {Prossimamente}
