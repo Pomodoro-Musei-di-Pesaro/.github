@@ -14,10 +14,10 @@ Il team di lavoro è composto da Alice, curatrice della parte artistica e inform
  - [Guida per tour bambini ingrandita (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Guida_per_Tour_Bambini_Musei_Civici-Ingrandita.pdf)
  - [Slides della guida per presentazione](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Slides-Guida_per_Tour_Bambini_Musei_Civici.pdf)
  - Laboratorio creativo: [Collega le descrizioni alle immagini](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Collega_le_Descrizioni_alle_Immagini.pdf)
- - Laboratorio creativo: [Colora le opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Colora_le_Opere.pdf)
- - Laboratorio creativo: [Trova le opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Trova_le_Opere.pdf)
- - Laboratorio creativo: Puzzle con le opere {Prossimamente}
- - Laboratorio: Compito con domande a risposta multipla e aperta {Prossimamente}
+ - Laboratorio creativo: [Colora le Opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Colora_le_Opere.pdf)
+ - Laboratorio creativo: [Trova le Opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Trova_le_Opere.pdf)
+ - Laboratorio creativo: [Puzzle sulle Opere](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio_Creativo-Puzzle_sulle_Opere.pdf)
+ - Laboratorio: [Compito con domande a risposta multipla e aperta](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio-Test.pdf)
 
 ### Tour per adulti ai Musei Civici
   - Guida per tour adulti {Prossimamente}
