@@ -43,12 +43,13 @@ r0s4dip3sar0 e R0mb0.
 
 ### Album di figurine sui Musei di Pesaro
   - Album {Prossimamente}
+  - Figurine {Prossimamente}
 
 ### Notebook personalizzato
  - Grafica quadernino personalizzata dove i bambini possono prendere appunti sulle opere dei Musei di Pesaro {Pianificato}
 
 ### Grafiche del progetto
-  - Logo del progetto {Prossimamente}
+  - [Logo del progetto](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/blob/main/Pomodoro_Logo/Pomodoro_Logo.png?raw=true)
   - Mascotte del progetto {Prossimamente}
   - Timbro del prpogetto {Prossimamente}
 
