@@ -54,4 +54,4 @@ r0s4dip3sar0 e R0mb0.
   - Timbro del prpogetto {Prossimamente}
 
 ### Relazione del progetto
- - [Relazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.0/Pomodoro_Musei_di_Pesaro_Report.pdf)
+ - [Relazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.0/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
