@@ -56,3 +56,8 @@
 
 ### Relazione del progetto
  - [Relazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.0/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
+
+---
+
+# Analytics
+![Profile Views](https://komarev.com/ghpvc/?username=Pomodoro-Musei-di-Pesaro)
