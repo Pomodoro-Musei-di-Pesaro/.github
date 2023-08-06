@@ -52,7 +52,7 @@
 ### Grafiche del progetto
   - [Logo del progetto](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/blob/main/Pomodoro_Logo/Pomodoro_Logo.png?raw=true)
   - Mascotte del progetto {Prossimamente}
-  - Timbro del prpogetto {Prossimamente}
+  - Timbro del progetto {Prossimamente}
 
 ### Relazione del progetto
  - [Relazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.0/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
