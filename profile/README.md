@@ -54,6 +54,9 @@
   - Mascotte del progetto {Prossimamente}
   - Timbro del progetto {Prossimamente}
 
+### Biglietto da visita del progetto
+ - Biglietto da visita {Prossimamente}
+
 ### Relazione del progetto
  - [Relazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.0/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
 
