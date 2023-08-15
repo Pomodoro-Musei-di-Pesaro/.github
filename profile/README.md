@@ -63,4 +63,5 @@
 ---
 
 # Analytics
-![Profile Views](https://komarev.com/ghpvc/?username=Pomodoro-Musei-di-Pesaro)
+[![Profile Views](https://komarev.com/ghpvc/?username=Pomodoro-Musei-di-Pesaro)](https://github.com/Pomodoro-Musei-di-Pesaro)
+[![Visits](https://badges.pufler.dev/visits/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro?color=black&logo=github&style=flat-square)](https://github.com/Pomodoro-Musei-di-Pesaro)
