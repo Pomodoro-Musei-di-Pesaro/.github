@@ -27,7 +27,7 @@ comments: true
 ### Laboratorio: Test sulle opere dei Musei Civici  
 [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio-Test.pdf)
 
----
+___
 #### License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
