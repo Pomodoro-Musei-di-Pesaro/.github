@@ -4,7 +4,7 @@ title: Tour per bambini ai Musei Civici
 subtitle: Guida per spiegare le Opere dei Musei civici ai bambini
 gh-repo: Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici
 gh-badge: [star, fork, follow]
-tags: [pesaro, museicivici, museo, guida, bambini, documento, pdf, laboratoriocreativo, laboratorio, presentazione, slides]
+tags: [pesaro, museicivici, museo, guida, bambini, documento, pdf, laboratoriocreativo, laboratorio, presentazione, slides, pomodoromuseidipesaro]
 comments: true
 ---
 ### Guida per il tour dei bambini  
