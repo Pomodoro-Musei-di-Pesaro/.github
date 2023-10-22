@@ -1,31 +1,16 @@
 ---
 layout: post
-title: Tour per bambini ai Musei Civici
-subtitle: Guida per spiegare le Opere dei Musei civici ai bambini
-gh-repo: Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici
+title: Relazione del progetto Pomodoro Musei di Pesaro
+subtitle: Relazione per presentazione del progetto
+gh-repo: Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report 
 gh-badge: [star, fork, follow]
-tags: [pesaro, museicivici, museo, guida, bambini, documento, pdf, laboratoriocreativo, laboratorio, presentazione, slides, pomodoromuseidipesaro]
+tags: [pesaro, museicivici, relazione, museioliveriani, progetto, pomodoromuseidipesaro]
 comments: true
 ---
-### Guida per il tour dei bambini  
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Guida_per_Tour_Bambini_Musei_Civici.pdf)
-### Guida ingrandita per il tour dei bambini  
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Guida_per_Tour_Bambini_Musei_Civici-Ingrandita.pdf)
-### Slides per presentazione tour  
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Slides-Guida_per_Tour_Bambini_Musei_Civici.pdf)
-### Laboratorio creativo per Bambini basato sulle Opere dei Musei Civici  
-- Collega le descrizioni alle immagini  
-    [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio_Creativo-Collega_le_Descrizioni_alle_Immagini.pdf)
-- Colora le opere  
-    [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio_Creativo-Colora_le_Opere.pdf)
-- Trova le Opere  
-    [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio_Creativo-Trova_le_Opere.pdf)
-- Puzzle sulle opere  
-    [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio_Creativo-Puzzle_sulle_Opere.pdf)
-<a/>
+### Relazione
+⚠️ Per via dell'abbandono del progetto da parte di Alice, la relazione non è più da considerarsi valida. ⚠️
 
-### Laboratorio: Test sulle opere dei Musei Civici  
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/v1.0/Laboratorio-Test.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.0/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
 
 ___
 #### License
