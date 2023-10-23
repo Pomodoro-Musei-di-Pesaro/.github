@@ -1,7 +1,7 @@
 <div>
  <img align="right"  width="20%"  height="20%" src="https://avatars.githubusercontent.com/u/136621125?s=200&v=4">
  <h3>
-  <span>
+  <span style="color: green;">
   "Pomodoro Musei di Pesaro" è una iniziativa nata dalla amicizia fra Alice (non più facente parte del progetto) e Francesco e dal desiderio di contribuire a migliorare in maniera innovativa alcune problematiche/aspetti riscontrati all'interno dell'ambito  museale di Pesaro.<br>
   </span>
  </h3>
