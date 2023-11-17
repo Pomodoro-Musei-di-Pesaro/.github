@@ -57,8 +57,8 @@
 
 ### Grafiche del progetto
   - [Logo del progetto](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/blob/main/Pomodoro_Logo/Pomodoro_Logo.png?raw=true)
-  - Mascotte del progetto {Prossimamente}
-  - Timbro del progetto {Prossimamente}
+  - [Mascotte del progetto](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Oliveriani_Stamp/Stamp.png?raw=true)
+  - [Timbro del progetto](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Civici_Children_Mascotte/Tail.png?raw=true)
 
 ### Biglietto da visita del progetto
  - [Biglietto da visita](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/releases/download/v1.0/Biglietto_da_visita.pdf)
