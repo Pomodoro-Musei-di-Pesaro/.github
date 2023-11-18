@@ -10,22 +10,22 @@ comments: true
 <div>
 <h3> Logo del progetto </h3>
 <img width="50%" height="50%" src="https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Pomodoro_Logo/Pomodoro_Logo.png?raw=true">
-</br>
+<br>
 </div>
 
 <div>
 <h3> Mascotte dei Musei Civici per i bambini </h3>
 <img width="50%" height="50%" src="https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Civici_Children_Mascotte/Tail.png?raw=true">
-</br>
+<br>
 </div>
 
 <div>
 <h3> Timbro dei Musei Oliveriani </h3>
 <img width="50%" height="50%" src="https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Oliveriani_Stamp/Stamp.png?raw=true">
-</br>
+<br>
 </div>
 
-<div> </br> </br> </div>
+<div> <br> <br> </div>
 
 
 [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20le%20immagini-red?style=for-the-badge&logo=download&logoColor=white "Immagini")](https://github.com/Pomodoro-Musei-di-Pesaro/.github/blob/main/docs/_download-files/Images.zip)
