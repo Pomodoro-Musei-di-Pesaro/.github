@@ -4,11 +4,11 @@ title: Relazione del progetto Pomodoro Musei di Pesaro
 subtitle: Relazione per la presentazione del progetto
 gh-repo: Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report 
 gh-badge: [star, fork, follow]
-tags: [pesaro, museicivici, relazione, museioliveriani, progetto, pomodoromuseidipesaro]
+tags: <!-- [pesaro, museicivici, relazione, museioliveriani, progetto, pomodoromuseidipesaro]-->
 comments: true
 ---
 ### Relazione
-⚠️ Per via dell'abbandono del progetto da parte di Alice, la relazione non è più da considerarsi valida. ⚠️
+⚠️ La relazione è in fase di aggiornamento. ⚠️
 
 [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.0/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
 
