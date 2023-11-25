@@ -11,8 +11,6 @@
  </ul>
 </div>
 
-# Il nostro lavoro
-
 ### Sito internet del progetto
  - [Sito internet](https://pomodoro-musei-di-pesaro.github.io/.github/) 
 
