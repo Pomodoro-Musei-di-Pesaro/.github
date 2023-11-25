@@ -4,7 +4,7 @@ title: Pomodoro Musei di Pesaro Grafiche
 subtitle: Grafiche del progetto Pomodoro Musei di Pesaro
 gh-repo: Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks
 gh-badge: [star, fork, follow]
-tags: [pesaro, museicivici, museo, museioliveriani, pomodoromuseidipesaro, timbro, timbromusei, museioliverianitimbro, logo, pomodoromuseidipesarologo, immagine, immagini, grafica, grafiche, progetto]
+tags: []
 comments: true
 ---
 <div>

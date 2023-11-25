@@ -4,7 +4,7 @@ title: Biglietto da visita
 subtitle: Biglietto da visita del progetto
 gh-repo: Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card
 gh-badge: [star, fork, follow]
-tags: [pesaro, museicivici, relazione, museioliveriani, progetto, pomodoromuseidipesaro, biglietto, biglietti, bigliettodavisita, bigliettidavisita]
+tags: []
 comments: true
 ---
 ### Biglietto da visita
