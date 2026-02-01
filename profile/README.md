@@ -23,10 +23,10 @@
  - Laboratorio: [Compito con domande a risposta multipla e aperta](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici/releases/download/0.2/Laboratorio-Test.pdf)
 
 ### Tour per adulti ai Musei Civici
-  - Guida per tour adulti {Prossimamente}
-  - Guida per tour adulti ingrandita (per ipovedenti) {Prossimamente}
-  - Guida per tour adulti con immagini {Prossimamente}
-  - Guida per tour adulti ingrandita con immagini (per ipovedenti) {Prossimamente}
+  - [Guida per tour adulti](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults.pdf)
+  - [Guida per tour adulti ingrandita (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_Enlarged.pdf)
+  - [Guida per tour adulti con immagini](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_with_Images.pdf)
+  - [Guida per tour adulti ingrandita con immagini (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_with_Images_Enlarged.pdf)
 
 ### Tour ai Musei Oliveriani
   - Guida museo {Prossimamente}
