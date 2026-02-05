@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tour per bambini ai Musei Civici
-subtitle: Guida per spiegare le Opere dei Musei civici ai bambini
-gh-repo: Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Bambini-Musei-Civici
+title: Tour per adulti ai Musei Civici
+subtitle: Guida per spiegare le Opere dei Musei civici
+gh-repo: Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici
 gh-badge: [star, fork, follow]
 tags: []
 comments: true
