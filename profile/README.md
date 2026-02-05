@@ -29,8 +29,8 @@
   - [Guida per tour adulti ingrandita con immagini (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_with_Images_Enlarged.pdf)
 
 ### Tour ai Musei Oliveriani
-  - Guida museo {Prossimamente}
-  - Guida museo ingrandita (per ipovedenti) {Prossimamente}
+  - [Guida museo](https://github.com/Pomodoro-Musei-di-Pesaro/Tour-ai-Musei-Oliveriani/releases/download/v1.0/Oliverian_Museums_Tour.pdf)
+  - [Guida museo ingrandita (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Tour-ai-Musei-Oliveriani/releases/download/v1.0/Oliverian_Museums_Tour_Enlarged.pdf)
 
 ### Podcast sui Musei Civici
   - Copione podcast {Prossimamante}
