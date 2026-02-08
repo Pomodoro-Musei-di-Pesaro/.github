@@ -43,8 +43,8 @@
   - Podcast {Pianificato}
 
 ### Album di figurine sui Musei di Pesaro
-  - Album {Prossimamente}
-  - Figurine {Prossimamente}
+  - [Album](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-stickers-Album/releases/download/v1.0/Stickers_Album.pdf)
+  - [Figurine](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-stickers-Album/releases/download/v1.0/Stickers.pdf)
 
 ### Notebook personalizzato
  - Quadernino personalizzato dove i bambini possono prendere appunti sulle opere dei Musei di Pesaro {Prossimamente}
