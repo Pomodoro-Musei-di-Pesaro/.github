@@ -47,7 +47,7 @@
   - [Figurine](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-stickers-Album/releases/download/v1.0/Stickers.pdf)
 
 ### Notebook personalizzato
- - Quadernino personalizzato dove i bambini possono prendere appunti sulle opere dei Musei di Pesaro {Prossimamente}
+ - [Quadernino personalizzato dove i bambini possono prendere appunti sulle opere dei Musei di Pesaro](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/releases/download/v1.0/Notebook.pdf)
 
 ### Grafiche del progetto
   - [Logo del progetto](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Artworks/blob/main/Pomodoro_Logo/Pomodoro_Logo.png?raw=true)
