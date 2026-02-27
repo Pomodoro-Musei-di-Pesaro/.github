@@ -33,14 +33,14 @@
   - [Guida museo ingrandita (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Tour-ai-Musei-Oliveriani/releases/download/v1.0/Oliverian_Museums_Tour_Enlarged.pdf)
 
 ### Podcast sui Musei Civici
-  - Copione podcast {Prossimamante}
-  - Copione podcast ingrandito (per ipovedenti) {Prossimamente}
-  - Podcast {Pianificato}
+  - [Copione podcast](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/releases/download/v1.0/Musei_Civici_Podcast_Script.pdf)
+  - [Copione podcast ingrandito (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/releases/download/v1.0/Musei_Civici_Podcast_Script_Enlarged.pdf)
+  - [Podcast](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Civici-Podcast/releases/download/v1.0/Podcast.zip)
 
 ### Podcast sui Musei Oliveriani
-  - Copione podcast {Prossimamante}
-  - Copione podcast ingrandito (per ipovedenti) {Prossimamente}
-  - Podcast {Pianificato}
+  - [Copione podcast](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/download/v1.0/Musei_Oliveriani_Podcast_Script.pdf)
+  - [Copione podcast ingrandito (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/download/v1.0/Musei_Oliveriani_Podcast_Script_Enlarged.pdf)
+  - [Podcast](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/download/v1.0/Podcast.zip)
 
 ### Album di figurine sui Musei di Pesaro
   - [Album](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-stickers-Album/releases/download/v1.0/Stickers_Album.pdf)
