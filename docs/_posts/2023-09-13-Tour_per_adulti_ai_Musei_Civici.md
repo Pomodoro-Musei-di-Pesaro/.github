@@ -8,16 +8,16 @@ tags: []
 comments: true
 ---
 ### Guida per tour adulti
-[Guida per tour adulti](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults.pdf)
 
 ### Guida per tour adulti ingrandita (per ipovedenti)
-[Guida per tour adulti ingrandita (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_Enlarged.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_Enlarged.pdf)
 
 ### Guida per tour adulti con immagini
-[Guida per tour adulti con immagini](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_with_Images.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_with_Images.pdf)
 
 ### Guida per tour adulti ingrandita con immagini (per ipovedenti)]
-[Guida per tour adulti ingrandita con immagini (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_with_Images_Enlarged.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Guida-per-Tour-Audulti-Musei-Civici/releases/download/v1.0/Guided_Tour_For_Adults_with_Images_Enlarged.pdf)
 ___
 #### License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
