@@ -9,10 +9,10 @@ comments: true
 ---
 
 ### Album
-[Album](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-stickers-Album/releases/download/v1.0/Stickers_Album.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-stickers-Album/releases/download/v1.0/Stickers_Album.pdf)
 
 ### Figurine
-[Figurine](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-stickers-Album/releases/download/v1.0/Stickers.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-stickers-Album/releases/download/v1.0/Stickers.pdf)
 
 ___
 #### License
