@@ -9,7 +9,7 @@ comments: true
 ---
 
 ### Quadernino personalizzato dove i bambini possono prendere appunti sulle opere dei Musei di Pesaro
-[Notebook](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/releases/download/v1.0/Notebook.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Pesaro-Museums-Notebook/releases/download/v1.0/Notebook.pdf)
 
 ___
 #### License
