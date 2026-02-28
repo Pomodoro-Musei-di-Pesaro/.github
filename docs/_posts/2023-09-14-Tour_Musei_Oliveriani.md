@@ -9,10 +9,10 @@ comments: true
 ---
 
 ### Guida museo
-[Guida museo](https://github.com/Pomodoro-Musei-di-Pesaro/Tour-ai-Musei-Oliveriani/releases/download/v1.0/Oliverian_Museums_Tour.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Tour-ai-Musei-Oliveriani/releases/download/v1.0/Oliverian_Museums_Tour.pdf)
 
 ### Guida museo ingrandita (per ipovedenti)
-[Guida museo ingrandita (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Tour-ai-Musei-Oliveriani/releases/download/v1.0/Oliverian_Museums_Tour_Enlarged.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Tour-ai-Musei-Oliveriani/releases/download/v1.0/Oliverian_Museums_Tour_Enlarged.pdf)
 ___
 #### License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
