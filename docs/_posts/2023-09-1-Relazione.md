@@ -10,7 +10,7 @@ comments: true
 ### Relazione
 ⚠️ La relazione è in fase di aggiornamento. ⚠️
 
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.0/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.1/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
 
 ___
 #### License
