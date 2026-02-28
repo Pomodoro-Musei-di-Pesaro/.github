@@ -9,13 +9,13 @@ comments: true
 ---
 
 ### Copione podcast
-[Copione podcast](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/download/v1.0/Musei_Oliveriani_Podcast_Script.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/download/v1.0/Musei_Oliveriani_Podcast_Script.pdf)
 
 ### Copione podcast ingrandito (per ipovedenti)
-[Copione podcast ingrandito (per ipovedenti)](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/download/v1.0/Musei_Oliveriani_Podcast_Script_Enlarged.pdf)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/download/v1.0/Musei_Oliveriani_Podcast_Script_Enlarged.pdf)
 
 ### Podcast
-[Podcast](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/download/v1.0/Podcast.zip)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento-red?style=for-the-badge&logo=download&logoColor=white "Documento")](https://github.com/Pomodoro-Musei-di-Pesaro/Musei-Oliveriani-Podcast/releases/download/v1.0/Podcast.zip)
 
 ___
 #### License
