@@ -58,8 +58,7 @@
  - [Biglietto da visita](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/releases/download/v1.0/Biglietto_da_visita.pdf)
 
 ### Relazione del progetto
-⚠️ La relazione è in fase di aggiornamento. ⚠️
- - [Relazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.0/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
+ - [Relazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-Report/releases/download/v1.1/Relazione-Pomodoro_Musei_di_Pesaro.pdf)
 
 ---
 
