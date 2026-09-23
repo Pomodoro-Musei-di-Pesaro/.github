@@ -10,7 +10,7 @@ comments: true
 <div>
 <h3> Logo del progetto </h3>
 <p style="text-align:center;">
-<img width="50%" height="50%" src="https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Pomodoro_Logo/Pomodoro_Logo.png?raw=true">
+<img width="50%" height="50%" src="https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Pomodoro_Logo/New_logos/03_cropped/Pomodoro_without_tomato_cropped.png?raw=true">
 </p>
 </div>
 <br>
@@ -18,7 +18,7 @@ comments: true
 <div>
 <h3> Mascotte dei Musei Civici per i bambini </h3>
 <p style="text-align:center;">
-<img width="50%" height="50%" src="https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Civici_Children_Mascotte/Tail.png?raw=true">
+<img width="50%" height="50%" src="https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Civici_Children_Mascotte/New_mascotte/02_Cleaned/New_mascotte_cleaned.png?raw=true">
 </p>
 </div>
 <br>
@@ -26,14 +26,14 @@ comments: true
 <div>
 <h3> Timbro dei Musei Oliveriani </h3>
 <p style="text-align:center;">
-<img width="50%" height="50%" src="https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Oliveriani_Stamp/Stamp.png?raw=true">
+<img width="50%" height="50%" src="https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/blob/main/Musei_Oliveriani_Stamp/01_New_images/02_Cleaned/Stamp_Profile_cleaned.png?raw=true">
 </p>
 </div>
 <br> 
 <br>
 
 
-[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20le%20immagini-red?style=for-the-badge&logo=download&logoColor=white "Immagini")](https://github.com/Pomodoro-Musei-di-Pesaro/.github/blob/main/docs/_download-files/Images.zip)
+[![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20le%20immagini-red?style=for-the-badge&logo=download&logoColor=white "Immagini")](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaros-Artworks/releases/download/v1.0/Images.zip)
 
 ___
 #### License
